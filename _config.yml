@@ -5,7 +5,7 @@ logo: "/assets/hu-logo.svg"
 # Aux links for the upper right navigation
 aux_links:
   "Pas dit playbook aan op GitHub":
-    - "//github.com/uashogeschoolutrecht/docs-hpc"
+    - "//github.com/uashogeschoolutrecht/ResearchEngineeringGroup"
 
 # Footer content 
 # appears at the bottom of every page's main content
@@ -14,7 +14,7 @@ footer_content: "CC BY-NC 4.0 Hogeschool Utrecht."
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/uashogeschoolutrecht/docs-hpc"
+gh_edit_repository: "https://github.com/uashogeschoolutrecht/ResearchEngineeringGroup"
 gh_edit_branch: "master"
 gh_edit_view_mode: "tree"
 
