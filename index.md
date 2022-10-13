@@ -6,6 +6,19 @@ has_children: true
 
 {% include banner.html %}
 
-## Introductie
-Dit handboek is het centrale punt voor de HU research Engineers en hoe we werken.
+## Research Support Lab
 
+### Datascience Pool
+- Data Engineering
+- Data Science 
+- Statisticus
+
+### Software Engineering Pool
+- Applicaties
+  - Web
+  - mobiel
+- Research Software
+
+### Hardware Engineering Pool
+- Electrical 
+- Mechanical
