@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hardware
-parent: Engineering
+parent: Hardware Engineering
 has_children: false
 ---
 
