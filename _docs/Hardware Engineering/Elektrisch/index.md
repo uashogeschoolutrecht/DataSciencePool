@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Hardware
+title: Elektrisch
 parent: Hardware Engineering
 has_children: false
 ---
 
-## Hardware
+## Elektrisch
 

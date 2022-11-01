@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data science
-parent: Engineering
+parent: Data science
 has_children: false
 ---
 
