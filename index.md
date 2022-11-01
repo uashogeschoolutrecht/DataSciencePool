@@ -10,7 +10,7 @@ has_children: true
 
 ## HU Research Support Lab
 
-Praktijk gericht onderzoek maakt impact op de maatschappij door het ontwikkelen van kennis, hardware software en data.
+Praktijk gericht onderzoek maakt impact op de maatschappij door het ontwikkelen van kennis, hardware software en data. 
 
 ### Datascience Pool
 - Data Engineering
