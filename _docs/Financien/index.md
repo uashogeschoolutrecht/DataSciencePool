@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Financiën
+title: Financiering
 has_children: true
 nav_order: 3
 ---

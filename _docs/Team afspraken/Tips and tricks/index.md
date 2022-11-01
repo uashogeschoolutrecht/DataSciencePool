@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tips and tricks
-parent: De mensen
+parent: Team afspraken
 has_children: false
 ---
 

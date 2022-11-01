@@ -6,3 +6,5 @@ has_children: false
 ---
 
 ## Samenstelling
+
+Wat hebben we in huis
