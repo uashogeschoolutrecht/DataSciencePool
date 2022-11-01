@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Software
-parent: Engineering
+title: Software 
+parent: Software Engineering
 has_children: false
 ---
 
