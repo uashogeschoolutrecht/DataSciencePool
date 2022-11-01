@@ -12,17 +12,17 @@ has_children: true
 
 Praktijk gericht onderzoek maakt impact op de maatschappij door het ontwikkelen van kennis, hardware software en data. 
 
-### Datascience Pool
+### Datascience
 - Data Engineering
 - Data Science 
 - statistiek
 
-### Software Engineering Pool
+### Software Engineering
 - Applicaties
   - Web
   - mobiel
 - Research Software
 
-### Hardware Engineering Pool
+### Hardware Engineering
 - Electrical
 - Mechanical
