@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Leren en innoveren
-parent: De mensen
+parent: Team afspraken
 has_children: false
 ---
 

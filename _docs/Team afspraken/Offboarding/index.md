@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Offboarding
-parent: De mensen
+parent: Team afspraken
 has_children: false
 ---
 
