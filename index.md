@@ -6,12 +6,16 @@ has_children: true
 
 {% include banner.html %}
 
-## Research Support Lab
+
+
+## HU Research Support Lab
+
+Praktijk gericht onderzoek maakt impact op de maatschappij door het ontwikkelen van kennis, hardware software en data. 
 
 ### Datascience Pool
 - Data Engineering
 - Data Science 
-- Statisticus
+- statistiek
 
 ### Software Engineering Pool
 - Applicaties
@@ -20,5 +24,5 @@ has_children: true
 - Research Software
 
 ### Hardware Engineering Pool
-- Electrical 
+- Electrical
 - Mechanical

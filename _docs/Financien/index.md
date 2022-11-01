@@ -2,7 +2,7 @@
 layout: default
 title: Financiën
 has_children: true
-nav_order: 2
+nav_order: 3
 ---
 
-## Financiën
+## Financiering van de projecten

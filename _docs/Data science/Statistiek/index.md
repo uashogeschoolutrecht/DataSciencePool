@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Data
+title: Statistiek
 parent: Engineering
 has_children: false
 ---
 
-## Data
+## Statistiek
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Engineering
+title: Software Engineering
 has_children: true
-nav_order: 2
+nav_order: 5
 ---
