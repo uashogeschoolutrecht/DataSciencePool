@@ -1,4 +1,4 @@
-# Research Engineering bij de Hgeschool Utrecht
+# HU Research Support Group
 
 ## Run site locally
 
