@@ -1,6 +1,6 @@
 ---
 layout: default
-title: De mensen
+title: People
 has_children: true
 nav_order: 2
 ---
