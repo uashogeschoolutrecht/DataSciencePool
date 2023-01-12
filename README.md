@@ -1,5 +1,7 @@
 # HU Research Support Group
 
+Visit the website [here](https://uashogeschoolutrecht.github.io/Data-Science-Pool/)
+
 ## Run site locally
 
 You need [Jekyll](https://jekyllrb.com/) to build this site using:
