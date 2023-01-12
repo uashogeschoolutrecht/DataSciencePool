@@ -1,4 +1,4 @@
-# HU Research Support Group
+# HU Data Science Pool
 
 Visit the website [here](https://uashogeschoolutrecht.github.io/Data-Science-Pool/)
 
