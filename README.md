@@ -1,6 +1,6 @@
 # HU Data Science Pool
 
-Visit the website [here](https://uashogeschoolutrecht.github.io/Data-Science-Pool/)
+Visit the website [here](https://uashogeschoolutrecht.github.io/DataSciencePool/)
 
 ## Run site locally
 
