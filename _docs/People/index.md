@@ -2,7 +2,26 @@
 layout: default
 title: People
 has_children: true
-nav_order: 2
+nav_order: 1
 ---
 
-## Alles over de mensen in het team en de rollen die we nodig hebben. 
+## Our Team
+
+We are a growing team of Data Science with different skills:
+
+![](/assets/DataScientist.png)
+
+Image from [AltexSoft](https://www.altexsoft.com/) 
+
+Check our profiles for more detailed information!
+
+
+
+## Collaboration
+
+Rins
+
+Freek
+
+
+ 
