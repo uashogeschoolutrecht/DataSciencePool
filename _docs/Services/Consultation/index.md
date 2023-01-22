@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Short Consultation
+title: Consultation
 parent: Services
 has_children: false
+nav_order: 1
 ---
 
 ## Short consultation

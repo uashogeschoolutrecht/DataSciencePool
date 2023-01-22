@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Short Projects
+title: Short Term Projects
 parent: Services
 has_children: false
+nav_order: 2
 ---
 
 ## Short Projects

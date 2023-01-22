@@ -17,7 +17,7 @@ Our goal is to serve Researchers, Students, Professors and workers at HU; our te
 ### Data Science
 What can the *HU community* expect from the DSP team?
 
-Data Science has many flavors, [this one](https://www.ibm.com/topics/data-science), [this other](https://www.oracle.com/uk/what-is-data-science/) and [so on](https://aws.amazon.com/what-is/data-science/); at the *DSP* we like the following defintion from [*IBM*](https://www.ibm.com/topics/data-science):
+Data Science has many flavors, [this one](https://www.ibm.com/topics/data-science), [this other](https://www.oracle.com/uk/what-is-data-science/) and [so on](https://aws.amazon.com/what-is/data-science/); at the *DSP* we think the following defintion from [*IBM*](https://www.ibm.com/topics/data-science) summarizes well our view:
 
 *Data science combines math and statistics, specialized programming, advanced analytics, artificial intelligence (AI), and machine learning with specific subject matter expertise to uncover actionable insights hidden in an organization’s data. These insights can be used to guide decision making and strategic planning.* 
 

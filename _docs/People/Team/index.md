@@ -8,16 +8,6 @@ nav_order: 1
 
 ## Our team
 
-We are a growing team of Data Science with different skills:
-
-![](/assets/DataScientist.png)
-
-Image from [AltexSoft](https://www.altexsoft.com/) 
-
-Check our profiles for more detailed information!
-
-
-
 
 **Xiaowen Song** -  
 *Data Scientist* 
