@@ -10,7 +10,7 @@ nav_order: 1
 We are a growing team of Data Science with different skills:
 
 
-![](/assets/DataScientist.png)
+![](https://github.com/uashogeschoolutrecht/DataSciencePool/tree/master/assets/DataScientist.png)
 
 {% comment %}
 
