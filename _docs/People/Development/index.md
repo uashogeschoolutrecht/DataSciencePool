@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Zelfontwikkeling
-parent: Werkwijze
+title: Development
+parent: People
 has_children: false
+nav_order: 2
 ---
 
-## Zelfontwikkeling
+## Development of skills and team building
 
 1 dag per week gezamenlijk werken aan het verder professionaliseren van het team, jezelf en onderzoekers, op de vrijdag. 
 
