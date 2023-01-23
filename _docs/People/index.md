@@ -9,7 +9,11 @@ nav_order: 1
 
 We are a growing team of Data Science with different skills:
 
-![](/assets/DataScientist.png){:height="325" width="346"}
+![](/assets/DataScientist.png)
+
+{% comment %}
+{:height="325" width="346"}
+{% endcomment %}
 
 Image from [AltexSoft](https://www.altexsoft.com/) 
 
