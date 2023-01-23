@@ -25,7 +25,7 @@ Summary skills and experience:
 **Mario Echeverri Bautista** -  
 *Senior Data Scientist* (Team Lead) 
 
-![](/assets/mario.jpg){:height="222px" width="154px"}
+![](/assets/mario.jpg){:height="222" width="154"}
 
 Mario has a background in Computer Science, oriented to high performance computational methods in Scientific Computing (PhD, 2016). Since 2016 he has worked both in industrial and research environments in different topics, among others: Signal Processing, Data Analysis, Machine Learning and Geo-Science.  
 He is skilled in Projects Development, Data-driven modeling and Systems Engineering. 
