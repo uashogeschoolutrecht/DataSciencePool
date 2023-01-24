@@ -9,8 +9,12 @@ nav_order: 1
 
 We are a growing team of Data Science with different skills:
 
-
-![](https://github.com/uashogeschoolutrecht/DataSciencePool/tree/master/assets/DataScientist.png)
+<br/>
+<p align="center">
+  <img src="/assets/DataScientist.png"/>
+  <figcaption>Data Scientist Skills &copy;Testing</figcaption>
+</p>
+<br/>
 
 {% comment %}
 
