@@ -33,6 +33,8 @@ The following scheme shows our *scope* and our *interfaces* (this is how we conn
 
 In at least one project, we already collaborate with other teams in specific tasks where their skills better match the researcher needs; our end goal is to be a working part of the research support ecosystem that HU has in place to support the community.
 
+In particular we collaborate closely with **Rins Rutgers** and the *Digitale onderzoeksomgeving*, they support our efforts in *Infrastructure and Cloud* related questions.
+
 
 
 
