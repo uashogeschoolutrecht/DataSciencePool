@@ -28,8 +28,13 @@ plugins:
 collections:
   # Define a collection named "docs", its documents reside in the "_docs" directory
   docs:
-    permalink: "/:collection/:path/"
+    permalink: "/docs/:path/"
     output: true
+  People:
+    permalink: "/docs/People/:path/"
+    output: true  
+
+
 
 just_the_docs:
   # Define which collections are used in just-the-docs
@@ -44,4 +49,23 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: false
+    People:  
+      # Give the collection a name
+      name: People
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
 

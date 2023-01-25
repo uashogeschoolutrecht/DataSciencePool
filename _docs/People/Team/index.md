@@ -12,6 +12,8 @@ nav_order: 1
 **Xiaowen Song** -  
 *Data Scientist* 
 
+![](XSong.jpeg/mario.jpg){:height="222" width="154"}
+
 I am Xiaowen Song. I come from China. After graduating from bachelor in Computer Science and Technology. I came to the Netherland in 2018. I finished my Master in University of Twente, specialized in Data Science and Technology. During my master, I did both my internship and final thesis in Movella. I applied for a patent for my final thesis: A Method for Imputation of Missing Sensor Data in Motion Tracking. I joined Movella as a Jr. Machine Learning Scientist from October, 2020. My job is to integrate machine learning solutions for health and sports applications.  For instance, the applications can be human activity recognition,  auto sensor-segment labeling, missing data imputation, etc. University of Twente, Master of Data Science and Technology
 
 Summary skills and experience:
@@ -25,7 +27,7 @@ Summary skills and experience:
 **Mario Echeverri Bautista** -  
 *Senior Data Scientist* (Team Lead) 
 
-![](/assets/mario.jpg){:height="222" width="154"}
+![](images/mario.jpg){:height="222" width="154"}
 
 Mario has a background in Computer Science, oriented to high performance computational methods in Scientific Computing (PhD, 2016). Since 2016 he has worked both in industrial and research environments in different topics, among others: Signal Processing, Data Analysis, Machine Learning and Geo-Science.  
 He is skilled in Projects Development, Data-driven modeling and Systems Engineering. 
