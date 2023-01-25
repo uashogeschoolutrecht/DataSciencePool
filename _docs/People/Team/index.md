@@ -12,7 +12,7 @@ nav_order: 1
 **Xiaowen Song** -  
 *Data Scientist* 
 
-![](XSong.jpeg/mario.jpg){:height="222" width="154"}
+![](images/XSong.jpeg){:height="222" width="154"}
 
 I am Xiaowen Song. I come from China. After graduating from bachelor in Computer Science and Technology. I came to the Netherland in 2018. I finished my Master in University of Twente, specialized in Data Science and Technology. During my master, I did both my internship and final thesis in Movella. I applied for a patent for my final thesis: A Method for Imputation of Missing Sensor Data in Motion Tracking. I joined Movella as a Jr. Machine Learning Scientist from October, 2020. My job is to integrate machine learning solutions for health and sports applications.  For instance, the applications can be human activity recognition,  auto sensor-segment labeling, missing data imputation, etc. University of Twente, Master of Data Science and Technology
 

@@ -30,11 +30,18 @@ collections:
   docs:
     permalink: "/docs/:path/"
     output: true
+    
+# Under docs/:    
   People:
     permalink: "/docs/People/:path/"
     output: true  
+  Team: # Team is under docs/People/
+    permalink: "/docs/People/Team/:path/"
+    output: true  
 
-
+  Projects:
+    permalink: "/docs/Projects/:path/"
+    output: true
 
 just_the_docs:
   # Define which collections are used in just-the-docs
@@ -58,8 +65,24 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: false      
-      
-      
+    Team:  
+      # Give the collection a name
+      name: Team
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false         
+    Projects:  
+      # Give the collection a name
+      name: Projects
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false        
       
       
       
