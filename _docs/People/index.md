@@ -9,14 +9,18 @@ nav_order: 1
 
 We are a growing team of Data Science with different skills:
 
+
+![](images/DataScientist.png)
+
+
+{% comment %}
+
 <br/>
 <p align="center">
-  <img src="/assets/DataScientist.png"/>
+  <img src="images/DataScientist.png"/>
   <figcaption>Data Scientist Skills &copy;Testing</figcaption>
 </p>
 <br/>
-
-{% comment %}
 
 {:height="325" width="346"}
 
