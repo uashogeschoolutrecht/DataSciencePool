@@ -10,7 +10,7 @@ nav_order: 1
 We are a growing team of Data Science with different skills:
 
 
-![](images/DataScientist.png)
+![](images/DataScientist.png){:height="325" width="346"}
 
 
 {% comment %}
