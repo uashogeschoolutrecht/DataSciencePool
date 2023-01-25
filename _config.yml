@@ -32,12 +32,9 @@ collections:
     output: true
     
 # Under docs/:    
-  People:
-    permalink: "/docs/People/:path/"
-    output: true  
-#  Team: # Team is under docs/People/
-#    permalink: "/docs/People/Team/:path/"
-#    output: true  
+  Team:
+    permalink: "/docs/Team/:path/"
+    output: true    
 
   Projects:
     permalink: "/docs/Projects/:path/"
@@ -56,33 +53,24 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: false
-    People:  
-      # Give the collection a name
-      name: People
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false      
-#    Team:  
+#    People:  
 #      # Give the collection a name
-#      name: Team
+#      name: People
 #      # Exclude the collection from the navigation
 #      # Supports true or false (default)
 #      nav_exclude: false
 #      # Exclude the collection from the search
 #      # Supports true or false (default)
-#      search_exclude: false         
-    Projects:  
-      # Give the collection a name
-      name: Projects
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false        
+#      search_exclude: false              
+#    Projects:  
+#      # Give the collection a name
+#      name: Projects
+#      # Exclude the collection from the navigation
+#      # Supports true or false (default)
+#      nav_exclude: false
+#      # Exclude the collection from the search
+#      # Supports true or false (default)
+#      search_exclude: false        
       
       
       

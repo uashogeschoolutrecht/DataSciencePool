@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Team
-parent: People
+title: People
+parent: Team
 has_children: false
 nav_order: 1
 ---
@@ -45,7 +45,7 @@ Summary skills and experience:
 
 More details:
 
-[LinkedIn](www.linkedin.com/in/mario-echeverri-bautista)
+[LinkedIn](https://www.linkedin.com/in/mario-echeverri-bautista)
 
 [GitHub](https://github.com/deweatherman)
 
