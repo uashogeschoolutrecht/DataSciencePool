@@ -23,7 +23,7 @@ Check our profiles for more detailed information!
 
 Our team has a very well defined task of supporting researchers and other members of the HU comunity in **Data Science** problems. 
 
-We strive to have a clear scope for our work, in other words: what can our team help you with and what is outside our reach. 
+We thrive in having a clear scope for our work, in other words: what can our team help you with and what is outside our reach. 
 
 Having a clear scope for our team creates infinite opportunities for collaboration with other teams: if a project or question does not fall within our scope we can help you indicating the right team for it!
 
