@@ -33,7 +33,12 @@ The following scheme shows our *scope* and our *interfaces* (this is how we conn
 
 In at least one project, we already collaborate with other teams in specific tasks where their skills better match the researcher needs; our end goal is to be a working part of the research support ecosystem that HU has in place to support the community.
 
-In particular we collaborate closely with **Rins Rutgers** and the *Digitale onderzoeksomgeving*, they support our efforts in *Infrastructure and Cloud* related questions.
+## Our enablers
+
+As a support team, we support ourselves on other teams and members of the HU community, our *enablers*; these enablers, allow us to connect nicely with the modern infrastructure that HU has in place to serve its community. 
+In particular we collaborate closely with **Margreet Riphagen**, **Rins Rutgers** and **Tineke van der Meer** from the *Digitale onderzoeksomgeving*, they support our efforts in *Infrastructure and Cloud* and *Data Stewardship* related questions. We also receive support from **Klaske de Hoop** and **Fraukje Coopmans** from the *Data & Analytics* team. Finally we also keep close contact with other members of the community that have been involved in the effort of making the DSP a reality, such as **Marc Teunis**, **Saskia te Velde** and **Henri Kiers**.
+
+
 
 
 
