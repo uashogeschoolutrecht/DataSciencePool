@@ -29,7 +29,7 @@ Having a clear scope for our team creates infinite opportunities for collaborati
 
 The following scheme shows our *scope* and our *interfaces* (this is how we connect with other teams):
 
-![](images/DSP_scope.png){:height="538" width="1127"}
+![](images/DSP_scope.png){:height="491" width="1142"}
 
 In at least one project, we already collaborate with other teams in specific tasks where their skills better match the researcher needs; our end goal is to be a working part of the research support ecosystem that HU has in place to support the community.
 
